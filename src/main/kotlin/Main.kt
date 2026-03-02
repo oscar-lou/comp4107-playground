@@ -1,5 +1,4 @@
 package hk.edu.hkbu.comp.comp4107.playground
-<<<<<<< HEAD
 
 import hk.edu.hkbu.comp.comp4107.playground.kennycheng.SelfIntro
 
